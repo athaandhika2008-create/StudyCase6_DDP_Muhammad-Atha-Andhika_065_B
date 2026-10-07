@@ -13,6 +13,8 @@
 
 **Kelas : B**
 
+**Soal : Ganjil**
+
 **Dasar Dasar Pemrograman**
 
 --------------------------------------------
