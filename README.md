@@ -82,3 +82,14 @@
 
     Pada menu 3, pengguna bisa mengakhiri program dengan break untuk menghentikan perulangan menu dan 
     program akan menampilkan output "Program Selesai." 
+
+--------------------------------------------
+
+**4. Bukti Data Baru Tetap Tersimpan**
+
+<img width="467" height="180" alt="Screenshot 2026-10-07 170438" src="https://github.com/user-attachments/assets/5bf989e8-fbf9-40e2-8414-71ee909c5e9e" />
+
+<img width="1400" height="628" alt="Screenshot 2026-10-07 170501" src="https://github.com/user-attachments/assets/e0fecbfd-4e54-4e12-9e9c-bab4b4a2ca34" />
+
+    Bagian ini menunjukkan bahwa data yang telah di input sebelumnya ke dalam file CSV akan tetap muncul, tersimpan, dan bisa dilihat
+    kembali ketika program dijalankan kembali.
